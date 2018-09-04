@@ -2,7 +2,7 @@
     "name": "ofirehose",
     "version": "0.2.0-alpha.1",
     "dependencies": {
-	"express": "2.5.x",
+	"express": "3.11.0",
 	"underscore": "1.4.x",
 	"utml": "0.2.x",
 	"databank": "0.18.x"
